@@ -1,0 +1,38 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 104.000000000000000000
+    Position.Y = 120.000000000000000000
+    TabOrder = 2
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object IbdbdemosConnection: TFDConnection
+    Params.Strings = (
+      'ConnectionDef=IBDBDemos')
+    Connected = True
+    LoginPrompt = False
+    Left = 117
+    Top = 209
+  end
+  object BiolifeTable: TFDQuery
+    Active = True
+    Connection = IbdbdemosConnection
+    SQL.Strings = (
+      'SELECT * FROM BIOLIFE')
+    Left = 229
+    Top = 201
+  end
+  object FDStanStorageJSONLink1: TFDStanStorageJSONLink
+    Left = 280
+    Top = 248
+  end
+end

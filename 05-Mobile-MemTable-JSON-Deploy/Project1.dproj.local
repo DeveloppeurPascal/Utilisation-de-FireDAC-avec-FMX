@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/29 17:07:21.000.957,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/10/30 13:36:46.000.656,=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2018/10/30 13:39:00.000.844,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181030-webinaire-FireDAC-FMX\03-mobile\Unit1.pas</Transaction>
+    <Transaction>2018/10/30 13:39:00.000.844,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Unit1.fmx=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181030-webinaire-FireDAC-FMX\03-mobile\Unit1.fmx</Transaction>
+    <Transaction>2018/10/30 13:39:03.000.895,C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\PATRICK PREMARTIN\Documents\Embarcadero\Studio\Projets\20181030-webinaire-FireDAC-FMX\03-mobile\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pimac iOSSimulator="_iossimulator_ED562A0F-3866-4B32-9BE2-4032101B0672" iOSDevice64="_iosdevice_4735ab942d82a0a75d28785082e67b230f810e02" iOSDevice32="_iosdevice_4735ab942d82a0a75d28785082e67b230f810e02"/>
+		<NoProfile Android="0123456789ABCDEF"/>
+	</ActiveMobileDevice>
+</BorlandProject>
